@@ -1,0 +1,11 @@
+.home-content {
+  margin-left: 2em;
+  width: 64vw;
+}
+.sliding-tabs {
+  /* margin-left: 2em; */
+  width: 64vw;
+}
+* {
+  margin: 0;
+}
